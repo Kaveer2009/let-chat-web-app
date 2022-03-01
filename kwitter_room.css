@@ -1,0 +1,23 @@
+body, html{
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+    color: white;
+    text-align: center;
+    
+    
+}
+
+#logout{
+    float: right;
+    font-size: 20px;
+}
+
+#output{
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 20px;
+    color: black;
+    padding-top: 25px;
+}
+
+#output:hover{
+    cursor: pointer;
+}
